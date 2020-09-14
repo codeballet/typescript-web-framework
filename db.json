@@ -9,31 +9,6 @@
       "name": "new record",
       "age": 0,
       "id": 2
-    },
-    {
-      "name": "Thor",
-      "age": 99,
-      "id": 3
-    },
-    {
-      "name": "Thor",
-      "age": 99,
-      "id": 4
-    },
-    {
-      "name": "Odin",
-      "age": 99,
-      "id": 5
-    },
-    {
-      "name": "Thor",
-      "age": 99,
-      "id": 6
-    },
-    {
-      "name": "Thor",
-      "age": 99,
-      "id": 7
     }
   ]
 }
